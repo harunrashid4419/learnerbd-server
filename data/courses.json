@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0282e0e-58a5c404-2510",
+        "name": "Web Design",
+        "price": "102",
+        "rating": { "number": 4.7, "review": "Excellent" },
+        "total-view": 715,
+        "title": "Practical Web Design: 22 Courses in 1",
+        "image": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23164055/Web-Designing-Course-Syllabus.jpg",
+        "details": "We're going to highlight a lot of free web design tutorials on a range of specific topics in this post, but let’s start with something more general. The utterly comprehensive Web Design for Beginners course gets you up to speed with the fundamentals of web design in five hours of free education. With more than a million views, it’s fast becoming the go-to resource for anyone who’s starting out in web design."
+    },
+    {
+        "id": "0282e0e-58a5c404-2520",
+        "name": "Web Development",
+        "price": "210",
+        "rating": { "number": 4.6, "review": "Excellent" },
+        "total-view": 420,
+        "title": "The Complete Web Developer Course",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+        "details": "As you learn the fundamentals of web development and look to enhance your knowledge, it's important to scour the internet to see what other people are doing and saying. While it's great to stay up-to-date on trends through magazines and books, web development blogs provide you with an abundance of fresh, free content. Blogs have become increasingly more popular over the years and even though sports and fashion blogs led the charge at first, it's now very likely that every topic out there has at least one blog dedicated to it."
+    },
+    {
+        "id": "0282e0e-58a5c404-2540",
+        "name": "Python",
+        "price": "268",
+        "rating": { "number": 4.9, "review": "Good" },
+        "total-view": 121,
+        "title": "Best Python course for finance courses and certification",
+        "image": "https://hackr.io/blog/best-python-courses/thumbnail/large",
+        "details": "Python is one of the most popular programming languages in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time. During this process, I used the same approach for analyzing and comparing common qualities (or deficiencies) in each of the Python programming blogs."
+    },
+    {
+        "id": "0282e0e-58a5c404-2610",
+        "name": "JavaScript",
+        "price": "410",
+        "rating": { "number": 4.9, "review": "Good" },
+        "total-view": 121,
+        "title": "Learn Python",
+        "image": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
+        "details": "JavaScript is a free scripting language that works on client-side as well as server-side. It is text-based and works along-side HTML and CSS to enhance code functionality and add interactive elements. In short, JS can bring life to otherwise boring and static web pages. JS is interpreted, which means the code need not be compiled. For huge projects that use a lot of interactive content, separate JavaScript files with the extension .js are created. However, JS can also be embedded in HTML code using <script> tag. Some common use-cases of JS are interactive maps, live news updates, form validations, creating landing pages, etc."
+    },
+    {
+        "id": "0282e0e-58a5c404-3020",
+        "name": "Ethical Hacking",
+        "price": "352",
+        "rating": { "number": 4.9, "review": "Good" },
+        "total-view": 121,
+        "title": "Complete Ethical Hacking Course  Ethical Hacking Training for Beginners",
+        "image": "https://i.ytimg.com/vi/l77AgiphUQo/maxresdefault.jpg",
+        "details": "An Ethical Hacker exposes vulnerabilities in software to help business owners fix those security holes before a malicious hacker discovers them. In this free ethical hacking course, you will learn all about Ethical hacking lessons with loads of live hacking examples to make the subject matter clear. It is recommended you refer these Hacking Tutorials sequentially, one after the other to learn how to be a hacker. This free hacking course for beginners will help you learn all the ethical hacking concepts."
+    },
+    {
+        "id": "0282e0e-58a5c404-0150",
+        "name": "Graphics Design",
+        "price": "220",
+        "rating": { "number": 4.5, "review": "Excellent" },
+        "total-view": 1020,
+        "title": "Fundamentals of Graphic Design",
+        "image": "https://i1.wp.com/www.zekagraphic.com/wp-content/uploads/2021/03/Graphic-Design-Principles-Guide-2021.jpg?fit=1920%2C1080&ssl=1",
+        "details": "Graphic Design is all around us! Words and pictures—the building blocks of graphic design—are the elements that carry the majority of the content in both the digital world and the printed world. As graphic design becomes more visible and prevalent in our lives, graphic design as a practice becomes more important in our culture. Through visual examples, this course will teach you the fundamental principles of graphic design: image making, typography, composition, working with colour and shape... foundational skills that are common in all areas of graphic design practice."
+    }
+]
